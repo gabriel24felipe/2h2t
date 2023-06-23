@@ -13,6 +13,15 @@ verde {
 width: 100vw;
 background- color: Ogreen;
 ]
-cinzal (
+cinza (
 width: 100vw;
-background-color: Oblack;
+background-color: 0#333;
+]
+azul I
+width: 100vw;
+background-color: Oblue:
+]
+site
+display: grid;
+grid-template-columns: 10% 70% 20%;
+grid-template-areas:
