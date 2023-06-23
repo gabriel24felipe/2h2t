@@ -26,3 +26,8 @@ site
 display: grid;
 grid-template-columns: 10% 70% 20%;
 grid-template-areas:
+
+"rosa rosa rosa"
+"azul cinza verde*
+"azul cinza vermelho
+"preto preto preto";
