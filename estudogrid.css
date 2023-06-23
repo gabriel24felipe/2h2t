@@ -1,26 +1,27 @@
 
-preto (
+preto {
 width: 100vW;
-background-color: Oblack:
-rosa (
+background-color: Oblack: 
+         } 
+  rosa {
 width: 100vw;
 background-color: pink;
-)
-vermelho (
+}
+vermelho {
 width: 100vw:
-background-color: Ored;
+  background-color: Ored; }
 verde {
 width: 100vw;
 background- color: Ogreen;
-]
-cinza (
+}
+cinza {
 width: 100vw;
 background-color: 0#333;
-]
-azul I
+}
+azul {
 width: 100vw;
 background-color: Oblue:
-]
+  }
 site
 display: grid;
 grid-template-columns: 10% 70% 20%;
