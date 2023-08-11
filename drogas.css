@@ -21,8 +21,8 @@ ul{
 /* Header */
 
 .header{
-    background-color: rgb(204, 223, 221);
-    box-shadow: 1px 1px 5px 0px rgb(36, 90, 85);
+    background-color: rgb(10, 250, 22);
+    box-shadow: 1px 1px 5px 0px rgb(0, 0, 0);
     position: sticky;
     top: 0;
     width: 100%;
@@ -46,17 +46,17 @@ ul{
     width: 100%;
     height: 100%;
     position: fixed;
-    background-color: rgb(124, 172, 132);
+    background-color: rgb(39, 233, 72);
     overflow: hidden;
 
 }
 .menu a{
     display: block;
     padding: 30px;
-    color: rgb(238, 184, 83);
+    color: rgb(245, 119, 16);
 }
 .menu a:hover{
-    background-color: rgb(175, 173, 163);
+    background-color: rgb(238, 237, 233);
 }
 .nav{
     max-height: 0;
@@ -137,12 +137,12 @@ ul{
 .rodape {
     width: 100%;
     text-align: center;
-    background-color:rgb(111, 158, 161);
+    background-color:rgb(40, 240, 66);
     color: white;
 }
 
 .conteudo {
-    background-color:rgb(231, 215, 192);
+    background-color:rgb(255, 255, 255);
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-areas: "geral geral";
