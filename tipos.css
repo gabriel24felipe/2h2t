@@ -21,8 +21,8 @@ ul{
 /* Header */
 
 .header{
-    background-color: rgb(204, 223, 221);
-    box-shadow: 1px 1px 5px 0px rgb(36, 90, 85);
+    background-color: rgb(37, 219, 201);
+    box-shadow: 1px 1px 5px 0px rgb(219, 15, 15);
     position: sticky;
     top: 0;
     width: 100%;
@@ -46,17 +46,17 @@ ul{
     width: 100%;
     height: 100%;
     position: fixed;
-    background-color: rgb(124, 172, 132);
+    background-color: rgb(16, 216, 49);
     overflow: hidden;
 
 }
 .menu a{
     display: block;
     padding: 30px;
-    color: rgb(240, 220, 166);
+    color: rgb(252, 252, 252);
 }
 .menu a:hover{
-    background-color: rgb(175, 173, 163);
+    background-color: rgb(255, 255, 255);
 }
 .nav{
     max-height: 0;
@@ -71,7 +71,7 @@ ul{
 }/* Style label tag */
 
 .hamb-line {
-    background: rgb(36, 90, 85);
+    background: rgb(51, 214, 198);
     display: block;
     height: 2px;
     position: relative;
@@ -81,7 +81,7 @@ ul{
 
 .hamb-line::before,
 .hamb-line::after{
-    background: rgb(36, 90, 85);
+    background: rgb(52, 212, 196);
     content: '';
     display: block;
     height: 100%;
@@ -120,7 +120,7 @@ ul{
 .rodape {
     width: 100%;
     text-align: center;
-    background-color:rgb(111, 158, 161);
+    background-color:rgb(72, 230, 241);
     color: white;
 }
 
