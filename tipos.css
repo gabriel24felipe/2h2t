@@ -21,8 +21,8 @@ ul{
 /* Header */
 
 .header{
-    background-color: rgb(37, 219, 201);
-    box-shadow: 1px 1px 5px 0px rgb(219, 15, 15);
+    background-color: rgb(21, 255, 0);
+    box-shadow: 1px 1px 5px 0px rgb(0, 0, 0);
     position: sticky;
     top: 0;
     width: 100%;
@@ -71,7 +71,7 @@ ul{
 }/* Style label tag */
 
 .hamb-line {
-    background: rgb(51, 214, 198);
+    background: rgb(9, 255, 0);
     display: block;
     height: 2px;
     position: relative;
@@ -81,7 +81,7 @@ ul{
 
 .hamb-line::before,
 .hamb-line::after{
-    background: rgb(52, 212, 196);
+    background: rgb(0, 255, 0);
     content: '';
     display: block;
     height: 100%;
@@ -120,7 +120,7 @@ ul{
 .rodape {
     width: 100%;
     text-align: center;
-    background-color:rgb(72, 230, 241);
+    background-color:rgb(21, 255, 0);
     color: white;
 }
 
